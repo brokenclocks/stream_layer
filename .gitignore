@@ -1,0 +1,7 @@
+db.sqlite3
+streaming/migrations/
+streaming/__pycache__/
+myproject/__pycache__/
+
+
+
